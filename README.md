@@ -1,3 +1,10 @@
+# Future Work
+
+**Future work in this space will occur under the [Sakura Motion](https://github.com/SakuraMotion)
+organization, beginning with our Core rewrite: https://github.com/SakuraMotion/PurismCore.**
+
+-----
+
 # MOC3ingbird DoS
 
 日本語版：[README_JA.md](README_JA.md)
